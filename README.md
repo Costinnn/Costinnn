@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Costinnn
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning JavaScript, React, HTML, CSS, SCSS
+- Hi, I’m @Costinnn
+-I’m  working with JavaScript, React, HTML, CSS, SCSS
 
 <!---
 Costinnn/Costinnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
